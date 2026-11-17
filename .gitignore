@@ -1,0 +1,2 @@
+# 编译产物：由 scripts/build_all.sh 生成，可随时重建
+build/
